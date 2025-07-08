@@ -1,2 +1,1 @@
-# lab04
-Laboratorio_16
+Dentro este repositorio empezaremos a hacer el laboratorio 16 
