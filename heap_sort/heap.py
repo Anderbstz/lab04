@@ -90,6 +90,5 @@ heap = Heap()
 heap.heapList = [10, 3, 9, 1, 2, 7, 8]
 heap.size = 7
 
-=======
-"SIMULACION DE CONFLICTO EN LA RAMA MEJORA-HEAP"
->>>>>>> mejora-heap
+
+
